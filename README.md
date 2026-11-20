@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/focuser-build-committee.jpg" alt="The Ten Telescopes build committee holding a batch of finished red focusers and solar filters" width="720">
+  <img src="images/focuser-with-autofocuser.jpg" alt="The Ten Telescopes 2 inch focuser with a camera and an electronic autofocuser, outdoors" width="720">
 </p>
 
 <h1 align="center">Ten Telescopes 2 Inch Focuser</h1>
