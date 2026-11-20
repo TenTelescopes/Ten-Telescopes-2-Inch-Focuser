@@ -32,6 +32,14 @@ This is the focuser on our [Skyward 200](https://github.com/TenTelescopes/Skywar
 - **Coarse and fine focus.** A large knob for coarse focus, and a small knob that drives two planetary gear stages of 3:1 each, for 9:1 in total. The gears print in place, all in one piece.
 - **EAF ready.** The [`EAF Adapters`](STL%20Files/EAF%20Adapters) folder has offset blocks for mounting an electronic auto focuser.
 
+## On real telescopes
+
+<p align="center">
+  <img src="images/gallery/focuser-build-committee.jpg" alt="The Ten Telescopes build committee holding a batch of finished red focusers and solar filters" width="32%">
+  <img src="images/gallery/focuser-on-astrograph.jpg" alt="The focuser with a camera on a Skyward 200 Astrograph in the workshop" width="32%">
+  <img src="images/gallery/skyward200-astrograph-filter-wheel.jpg" alt="The focuser carrying a filter wheel and camera on a Skyward 200 Astrograph" width="32%">
+</p>
+
 ## Autofocus results
 
 On June 22, 2026, on our Skyward 150 Astrograph "Indigo" with a ZWO EAF and a ZWO ASIAIR, the autofocus stepped across about 300 steps and every point sat close to a clean V-curve. It then came back to position 52285, right at the bottom of the curve. Indigo was using the budget 3D printed drawtube and a budget coma corrector.
