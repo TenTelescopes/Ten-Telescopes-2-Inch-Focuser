@@ -7,7 +7,7 @@
 <p align="center">
   <strong>A heavy duty 2" Crayford focuser you can 3D print, with premium performance at a fraction of the cost.</strong><br>
   Focus by hand with a 9:1 fine focus, or let an electronic auto focuser (EAF) do it.<br>
-  Open source, from <a href="https://www.tentelescopes.com">Ten Telescopes</a> in Guelph, Ontario.
+  Free to build, from <a href="https://www.tentelescopes.com">Ten Telescopes</a> in Guelph, Ontario.
 </p>
 
 <p align="center">
@@ -94,5 +94,7 @@ You may **not**:
 
 - Sell these designs.
 - Sell physical products made from these designs without written permission.
+
+Because of the NonCommercial term, these are free-to-build designs, not open source hardware as the [OSHWA definition](https://oshwa.org/definition/) uses the term.
 
 For commercial inquiries: admin@tentelescopes.com
